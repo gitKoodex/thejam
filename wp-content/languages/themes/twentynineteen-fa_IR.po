@@ -1,0 +1,383 @@
+# Translation of Themes - Twenty Nineteen in Persian
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-12 09:00:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "پوستهٔ پیش‌فرض ۲۰۱۹ وردپرس برای نمایش قدرت ویرایش‌گر بلوک طراحی شده است. این پوسته شیوه‌های سفارشی برای همهٔ بلوک‌های پیش‌فرض را نمایان می‌کند؛ طوری ساخته شده که آنچه در ویرایش‌گر خود می‌بینید همان باشد که در وبگاه خود خواهید دید. دو هزار و نوزده برای انواع گوناگون وبگاه‌ها مناسب است؛ از بلاگ تصویری گرفته تا کسب و کار یا کارهای عام المنفعه. بهره بردن از فضای خالی کافی و استفادهٔ مناسب از فونت‌های مدرن سنس سریف برای سرمتن‌ها در کنار فونت‌های کلاسیک سریف برای متن باعث شده این پوسته در همهٔ اندازه‌های صفحه نمایش زیبا باشد. "
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "دو هزار و نوزده"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">منتشر شده در</span><span class=\"post-title\">%s</span>"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "ویژه"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "بیشتر"
+
+#: functions.php:164
+msgid "Light Gray"
+msgstr "خاکستری روشن"
+
+#: functions.php:159
+msgid "Dark Gray"
+msgstr "خاکستری تیره"
+
+#: functions.php:169
+msgid "White"
+msgstr "سفید"
+
+#: functions.php:130
+msgid "Large"
+msgstr "بزرگ"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "معمولی"
+
+#: functions.php:118
+msgid "Small"
+msgstr "کوچک"
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "سفارسی"
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "بازگشت"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">منتشر شده در</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "اعمال رنگ سفارشی برای دکمه‌ها، پیوندها، تصاویر شاخص و …"
+
+#: footer.php:37 functions.php:60
+msgid "Footer Menu"
+msgstr "فهرست پابرگ"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "خیلی بزرگ"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:60 inc/back-compat.php:83
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "پوستهٔ دو هزار و نوزده به حداقل نسخهٔ 4.7 وردپرس نیاز دارد. شما در حال استفاده از نسخهٔ %s هستید. لطفا ارتقا دهید و دوباره امتحان کنید."
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "پالایش تصاویر شاخص با استفاده از رنگ اصلی"
+
+#: image.php:56
+msgid "Page"
+msgstr "برگه"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "اندازهٔ کامل"
+
+#: functions.php:196
+msgid "Add widgets here to appear in your footer."
+msgstr "ابزارک‌ها را در اینجا اضافه کنید تا در پابرگ شما ظاهر شوند."
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "رنگ اصلی"
+
+#: functions.php:194 template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "پابرگ"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr "، "
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d نظر"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "بایگانی:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:120 template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش <span class=\"screen-reader-text\">%s</span>"
+
+#: classes/class-twentynineteen-walker-comment.php:89
+msgid "Edit"
+msgstr "ویرایش"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">می گوید:</span>"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:52 template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "بایگانی‌ نوع نوشته: "
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "بایگانی‌ روزانه: "
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "بایگانی ماهانه: "
+
+#: functions.php:59
+msgid "Primary"
+msgstr "اصلی"
+
+#: comments.php:96
+msgid "Next"
+msgstr "بعدی"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "قبلی"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "با افتخار، نیرو گرفته از %s."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! صفحه پیدا نشد."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "چیزی که می‌خواستید پیدا نشد. لطفا کلید واژه‌های دیگری را امتحان کنید."
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "بدون نظر"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "دیدن نوشته‌های بیشتر"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "از %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "فهرست بالا"
+
+#. translators: %s: Post title.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:225 template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "ادامهٔ <span class=\"screen-reader-text\">\"%s\"</span>"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "نوشته‌ٔ بعدی"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "نوشتهٔ بعدی:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "نوشتهٔ قبلی:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "نوشته‌ٔ قبلی"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "چیزی که می‌خواستید پیدا نشد. از جستجو کمک بگیرید."
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "نوشته‌های قدیمی‌تر"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "نوشته‌های تازه‌تر"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "برچسب‌ها:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "ارسال شده در"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "از"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "نظر شما دربارهٔ <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "بایگانی %s:"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "بایگانی سالانه:"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "بایگانی نویسنده:"
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "بایگانی برچسب:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "بایگانی دسته:"
+
+#: functions.php:61 template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "فهرست پیوندهای شبکه‌های اجتماعی"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "نظرات"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نظر دربارهٔ «%2$s»"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "یک نظر دربارهٔ «%s»"
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "نظرات بسته شده‌اند."
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "نظر دهید"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "گفتگو کنید"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید است."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "چیزی در اینجا پیدا نشد. می‌خواهید جستجو کنید؟"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://fa.wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "تیم وردپرس"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://fa.wordpress.org/"

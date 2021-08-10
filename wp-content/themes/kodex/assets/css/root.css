@@ -1,0 +1,28 @@
+:root {
+    --basicDark:#d5832d;
+    --basicBackground:#d5832d;
+    --basicSemiDark:#fec85e;
+    --secColor:#e1241b;
+    --headr-bg:#d5832d;
+    --header-txt:#ffffff;
+    --footer-bg:#000000;
+    --footer-txt:#ffffff;
+    --link-link:#e1241b;
+    --link-visited:#e1241b;
+    --link-hover:#e1241b;
+    --link-active:#e1241b;
+    --button-bg:#d5832d;
+    --button-color:#ffffff;
+    --button-bg-hover:#9dd2c8;
+    --button-txt-hover:#ffffff;
+    --scrollbar-width:10px;
+    --scrollbar-bg:#646462;
+    --scrollbar-thumb:#e1241b;
+    --scrollbar-thumb-hover:#093383;
+    --basic-txt-color:#000000;
+    --light-txt-color:#ffffff;
+    --dark-txt-color:#000000;
+    --simble-gradiant:linear-gradient(90deg, #d5832d 0%, #fec85e 100%);
+    --swiper-pagination-color:#e1241b !important;
+    --swiper-theme-color:#e1241b !important;
+  }

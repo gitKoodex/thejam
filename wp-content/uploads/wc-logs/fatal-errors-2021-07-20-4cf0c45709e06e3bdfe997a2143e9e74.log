@@ -1,0 +1,87 @@
+2021-07-20T06:45:18+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:45:19+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:45:58+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:45:59+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:46:13+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:46:14+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:47:01+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:47:02+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:47:19+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:47:20+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:50:23+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:50:24+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T06:50:42+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php در خط 3734
+
+2021-07-20T07:57:15+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:247
+Stack trace:
+#0 D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php(207): WC_Product::get_short_description()
+#1 D:\xampp-2\htdocs\jamejam\wordpress\wp-includes\template-loader.php(106): include('D:\\xampp-2\\htdo...')
+#2 D:\xampp-2\htdocs\jamejam\wordpress\wp-blog-header.php(19): require_once('D:\\xampp-2\\htdo...')
+#3 D:\xampp-2\htdocs\jamejam\wordpress\index.php(17): require('D:\\xampp-2\\htdo...')
+#4 {main}
+  thrown در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php در خط 247
+
+2021-07-20T07:58:33+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:247
+Stack trace:
+#0 D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php(193): WC_Product::get_short_description()
+#1 D:\xampp-2\htdocs\jamejam\wordpress\wp-includes\template-loader.php(106): include('D:\\xampp-2\\htdo...')
+#2 D:\xampp-2\htdocs\jamejam\wordpress\wp-blog-header.php(19): require_once('D:\\xampp-2\\htdo...')
+#3 D:\xampp-2\htdocs\jamejam\wordpress\index.php(17): require('D:\\xampp-2\\htdo...')
+#4 {main}
+  thrown در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php در خط 247
+
+2021-07-20T08:03:47+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:247
+Stack trace:
+#0 D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php(193): WC_Product::get_short_description()
+#1 D:\xampp-2\htdocs\jamejam\wordpress\wp-includes\template-loader.php(106): include('D:\\xampp-2\\htdo...')
+#2 D:\xampp-2\htdocs\jamejam\wordpress\wp-blog-header.php(19): require_once('D:\\xampp-2\\htdo...')
+#3 D:\xampp-2\htdocs\jamejam\wordpress\index.php(17): require('D:\\xampp-2\\htdo...')
+#4 {main}
+  thrown در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php در خط 247
+
+2021-07-20T08:07:02+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:247
+Stack trace:
+#0 D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php(193): WC_Product::get_short_description()
+#1 D:\xampp-2\htdocs\jamejam\wordpress\wp-includes\template-loader.php(106): include('D:\\xampp-2\\htdo...')
+#2 D:\xampp-2\htdocs\jamejam\wordpress\wp-blog-header.php(19): require_once('D:\\xampp-2\\htdo...')
+#3 D:\xampp-2\htdocs\jamejam\wordpress\index.php(17): require('D:\\xampp-2\\htdo...')
+#4 {main}
+  thrown در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php در خط 247
+
+2021-07-20T08:07:25+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_short_description() in D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php:209
+Stack trace:
+#0 D:\xampp-2\htdocs\jamejam\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp-2\htdocs\jamejam\wordpress\wp-blog-header.php(19): require_once('D:\\xampp-2\\htdo...')
+#2 D:\xampp-2\htdocs\jamejam\wordpress\index.php(17): require('D:\\xampp-2\\htdo...')
+#3 {main}
+  thrown در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php در خط 209
+
+2021-07-20T08:07:50+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Product() in D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php:209
+Stack trace:
+#0 D:\xampp-2\htdocs\jamejam\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp-2\htdocs\jamejam\wordpress\wp-blog-header.php(19): require_once('D:\\xampp-2\\htdo...')
+#2 D:\xampp-2\htdocs\jamejam\wordpress\index.php(17): require('D:\\xampp-2\\htdo...')
+#3 {main}
+  thrown در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php در خط 209
+
+2021-07-20T08:08:22+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:247
+Stack trace:
+#0 D:\xampp-2\htdocs\jamejam\wordpress\wp-content\themes\kodex\template-customehome.php(209): WC_Product::get_short_description()
+#1 D:\xampp-2\htdocs\jamejam\wordpress\wp-includes\template-loader.php(106): include('D:\\xampp-2\\htdo...')
+#2 D:\xampp-2\htdocs\jamejam\wordpress\wp-blog-header.php(19): require_once('D:\\xampp-2\\htdo...')
+#3 D:\xampp-2\htdocs\jamejam\wordpress\index.php(17): require('D:\\xampp-2\\htdo...')
+#4 {main}
+  thrown در D:\xampp-2\htdocs\jamejam\wordpress\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php در خط 247
+
